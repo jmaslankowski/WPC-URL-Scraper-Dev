@@ -28,7 +28,7 @@ class URLScraper:
                     data = database.websites
                     json = {
                         'url': str(url.strip()),
-                        'content':  'aa',
+                        'content': website.text,
                         'date': str(datetime.now())
                     }
                     result = data.insert_one(json)

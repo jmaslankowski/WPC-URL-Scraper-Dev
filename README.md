@@ -1,7 +1,12 @@
-<h1>URL Scraper Starter Kitt<</h1>
+<h1>URL Scraper Starter Kitt</h1>
 <h2>Structure of this Starter Kitt</h2>
     <ol>
-<li>Source code (in Python) - library and application</li>
+<li>Source code (in Python):
+    <ol>
+        <li>library</li>
+        <li>standalone application</li>
+        <li>self-tutorial of application</li>
+    </ol>
 <li>Jupyter Notebook files (ipynb) including manuals inside</li>
 <li>Example files - data with urls - url.txt</li>
 </ol>

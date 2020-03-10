@@ -25,6 +25,12 @@
 <li>Start the web scraping</li>
 </ol>
 
+# How to use a library
+
+import URLScraperLibrary as usl
+
+usl.startScraping()
+
 # Initial work
 
 1. Install MongoDB.
